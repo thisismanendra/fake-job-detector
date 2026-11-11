@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.9.1
+joblib>=1.6.0
+requests>=2.31
+beautifulsoup4>=4.12
+python-whois>=0.9
+tldextract>=5.1
+streamlit>=1.30
